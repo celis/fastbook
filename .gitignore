@@ -1,3 +1,5 @@
+models/
+tmp/
 *.bak
 *.pkl
 bears/
